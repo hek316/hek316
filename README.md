@@ -53,6 +53,7 @@
 **Checked Exception과 Unchecked Exception의 목적 차이**,  
 **API 사용자를 고려한 예외 설계 철학**까지 알려줘서  
 오류를 단순히 잡는 것이 아니라, **더 좋은 코드 구조로 연결되는 도구**라는 관점을 갖게 되었습니다.
+
 ---
 
 ## 📫 Contact
